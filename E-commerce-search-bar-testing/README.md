@@ -12,9 +12,10 @@
 - Vinculação do bug à user story.
 
 ## Cobrimento de teste:
-Estes testes cobrem dentro da feature de barra de busca funções de validação de entrada;
-busca de produtos existentes no sistema e não existentes, mais a relevância dos resultados;
-atualização da página durante pesquisas de produtos.
+Validação de entrada (campos vazios, caracteres inválidos)
+Busca de produtos existentes e inexistentes
+Relevância dos resultados exibidos
+Comportamento da página durante a pesquisa
 
 ## Ambiente:
 Produção (site público Mercado Livre)
@@ -28,3 +29,7 @@ Produção (site público Mercado Livre)
 - 4 cenários de teste;
 - 21 passos de casos de teste;
 - 2 bug (simulados) identificados durante os testes
+
+## Riscos identificados:
+- Retorno de resultados irrelevantes pode impactar a experiência do usuário
+- Falha na busca pode impedir a conversão de venda
