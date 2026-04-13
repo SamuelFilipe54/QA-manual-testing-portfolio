@@ -1,7 +1,7 @@
 # Este é meu portfólio de QA Manual com projetos práticos focados na validação de aplicações web, incluindo criação de cenários, execução de testes e documentação de bugs utilizando boas práticas do mercado.
 
 ## Sobre o projeto
-Este projeto possuí aplicações de e-commerce com foco na funcionalidade de busca e carrinho de compras.
+Este portfólio reúne projetos de testes manuais em aplicações de e-commerce, com foco nas funcionalidades de busca e carrinho de compras.
 
 ## Processos utilizados durante os testes:
 - Criação de cenários de teste
@@ -10,4 +10,4 @@ Este projeto possuí aplicações de e-commerce com foco na funcionalidade de bu
 - Identificação e documentação de bugs
 - Uso de ferramentas como Jira e Trello
 
-### A explicação detalhada de cada caso se encontra nos seus respectivos arquivos de README.
+### Os detalhes de cada projeto estão descritos nos respectivos arquivos README dentro de cada pasta.
